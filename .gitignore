@@ -1,8 +1,0 @@
-
-*.csv
-*.json
-homework/data/example.pkl
-homework/data/example.npy
-homework/data/example.mat
-homework/data/example.jpg
-homework/data/example.txt
